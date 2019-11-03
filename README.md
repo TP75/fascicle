@@ -7,9 +7,20 @@ Quot capita, tot sensus
 
 ## commitment
 
+### technical
+
+There may be good reasons to use [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD). However, there are [good reasons](https://en.wikipedia.org/wiki/Linux) to use [Linux](https://www.linux.com/) (including but not limited to being a [EU citizen](https://ec.europa.eu/info/aid-development-cooperation-fundamental-rights/your-rights-eu/eu-charter-fundamental-rights_en)). 
+:wink: :earth_africa:
+
+Unfortunately, one [cannot ignore tribal aspects](https://en.wikipedia.org/wiki/Communication) and [any community effort](https://www.debian.org/intro/free) can degrade into [lost debates](https://en.wikipedia.org/wiki/Dogma) or other [complex issues](https://ownyourbits.com/2017/06/12/why-nextcloudpi-uses-apache-and-not-nginx/).  Naturally,  [technical and deployment aspects](https://nextcloud.com/support/) should always matter most and you are [free to choose](https://en.wikipedia.org/wiki/Free_and_open-source_software). 
+
+:innocent: :restroom:
+
+### societal
+
 Welcome to the [CET](https://en.wikipedia.org/wiki/Central_European_Time) zone. In [Old Europe](https://en.wikipedia.org/wiki/Old_Europe_and_New_Europe) we have a tradition of [Enlightenment](https://en.wikipedia.org/wiki/Age_of_Enlightenment) like [Critique of Pure Reason](https://en.wikipedia.org/wiki/Immanuel_Kant). 
 
-My hometown [Berlin, Capital of Germany,](https://www.berlin.de/en/) today has good neighbours as [Paris](https://www.paris.fr/), [Amsterdam](https://www.amsterdam.nl/en/) and [Warsaw](http://www.um.warszawa.pl/en) in the [European Union](https://ec.europa.eu/growth/single-market_en). :de: :eu: 
+[Berlin, Capital of Germany,](https://www.berlin.de/en/) today has good neighbours as [Paris](https://www.paris.fr/), [Amsterdam](https://www.amsterdam.nl/en/) and [Warsaw](http://www.um.warszawa.pl/en) in the [European Union](https://ec.europa.eu/growth/single-market_en). :de: :eu: 
 
 While in Berlin stop at the [Berghain](https://en.wikipedia.org/wiki/Berghain), the [Memorial to the Murdered Jews of Europe](https://www.berlin.de/en/attractions-and-sights/3560249-3104052-memorial-to-the-murdered-jews-of-europe.en.html) and the [Mauerpark](https://en.wikipedia.org/wiki/Mauerpark). Only after the more educated [fan of space history](https://www.nasa.gov/centers/marshall/history/vonbraun/bio.html) may make a day's visit to the southern coast of the [Baltic sea](https://www.cia.gov/library/publications/resources/the-world-factbook/geos/print_gm.html) and touch [some historic ground of rocket science and far more sad ambitions of the past](https://museum-peenemuende.de/?lang=en).
 :rocket: :thinking: 
@@ -28,13 +39,6 @@ Further [POI in Berlin](https://www.berlin.de/en/tourism/):
 
 and e.g., the [Berlin Zoo](https://www.zoo-berlin.de/en).
 :panda_face: :tada:
-
-There may be good reasons to use [FreeBSD](https://en.wikipedia.org/wiki/FreeBSD). However, there are [good reasons](https://en.wikipedia.org/wiki/Linux) to use [Linux](https://www.linux.com/) (including but not limited to being a [EU citizen](https://ec.europa.eu/info/aid-development-cooperation-fundamental-rights/your-rights-eu/eu-charter-fundamental-rights_en)). 
-:wink: :earth_africa:
-
-Unfortunately, one [cannot ignore tribal aspects](https://en.wikipedia.org/wiki/Communication) and [any community effort](https://www.debian.org/intro/free) can degrade into [lost debates](https://en.wikipedia.org/wiki/Dogma) or other [complex issues](https://ownyourbits.com/2017/06/12/why-nextcloudpi-uses-apache-and-not-nginx/).  Naturally,  [technical and deployment aspects](https://nextcloud.com/support/) should always matter most and you are [free to choose](https://en.wikipedia.org/wiki/Free_and_open-source_software). 
-
-:innocent: :restroom:
 
 ## addendum
 
