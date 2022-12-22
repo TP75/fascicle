@@ -5,3 +5,9 @@ The _official_ text of the European Union Public Licence (EUPL) version 1.2, pub
   * https://joinup.ec.europa.eu/collection/eupl/eupl-text-eupl-12
 
 The a.m. page contains all the official versions of the European Union Public Licence (EUPL-1.2).  The preamble written for v 1.0, explaining the purpose of this Free/Open Source Software Licence, together with links to further information on the licence is valid for later versions.
+
+The Joinup Licensing Assistant (JLA) may be worth a visit to compare software licenses:
+
+  * https://joinup.ec.europa.eu/collection/eupl/solution/joinup-licensing-assistant/jla-find-and-compare-software-licenses
+
+The JLA is linked to SPDX (for Software Package Data Exchange), an initiative of the LINUX foundation that attempts to standardize the way in which organizations refer to software licenses: each licence is identified by a full name, such as "European Union Public Licence 1.2" and a shorter identifier, here "EUPL-1.2".
